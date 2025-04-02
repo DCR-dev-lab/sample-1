@@ -1,3 +1,4 @@
 hi 
-how'u 
-i am fine 
+how'u?
+I am fine 
+What about you
